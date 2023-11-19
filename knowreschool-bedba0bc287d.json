@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "knowreschool",
+  "private_key_id": "bedba0bc287d4333262668c059a1feac2cc7b4c8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC8/SLRY2o0eKW4\nDcdP0oNwgUmYIbJ8V4NngtzcrT/VvRwYpnrTCD8uC7j3ZAyg68fF9kogG7qUGwf2\nZEPwRQRe8VD2blROOqLn6IunpOfK9WhxIuK20iFUQRhME4x/seQ2/zY4We9IAb/A\nHqV6PU4ZrRU5XzFufGuyUWFGqYZzSsMasb3yhVZj/TwoFiWip5KrPc0Aob9H75E7\np3jfmKA/y3DToPW0flUVk1hrIr7HmBvhNlAHsp8P0KIrts1Ky01+Cp3Mjv/HGiV/\nfK43zxrJTiQwxNZnOsqbXM4FqCQFyBq0uEm3wy2MxdzPPKiiXf4UCCW09R88OSkA\ni0+1j18LAgMBAAECggEAKLsTwHYBIzrnWHIbxS/VJS+wGUoV6ieAShRRnnv2WI3v\n2r4ylX3fBAEBxcu5zwrR3O/2TNI9FYN35Vn5rHRrezzeGqZvpAaOKpYbVy+6xyq5\n7jw7CXTjOwHmhyrlanX//fxmBqIXaHj8Bx9zwZMp3G3Jt7o08J9/JIjWgsCxmfIh\ngpJSSHCvq5dQhUpsr07T94heed33IKrs1w9MS5G9/XQM7Le9vGqJtiJhgY+yMiJ0\nPWZ83QDaRinx1CqdrBDDFpbdXPPCxWcVFJGGndAVAE9q/Bfh53m2F9V9qPJlN+Mw\nqc356DJm10BC5eLflN4d7SuyG0KP1f6oL3cqYRSixQKBgQDoedFbmGOnYnYLNBWM\nOp5Px4J6t8E3Rcx97HnXyP8JCUThWZ2GWLJdZ/M2na93130BVJVLtKyqOzMxAkaz\nFQTD5Qqe+rjFdQOLyrCNFo1zP/WJtkMoY4DzzSYbwB3ouGva7Zzxk63DyKx+fp6a\n9wUzJhZG5o99Nedsnlv7DPjYrQKBgQDQHM5aWGkJtIa6HiJBx3PbEyOw/8zNhcib\nTpiDI8/kBW9BJ9fDx6H9HxxRnbmIPmIN8kRp8uC0lnrqOQIEUkcOR/BYgNFib7TY\nlio82rP/FsqcSB9tOyFraGN0fHl0U28Ix2mTNKcm3+jKvgVvs1hhKueLG6G0dyK1\nYE15gFL1lwKBgC+E1vp2B8irI53eo5jqUnnUOiODdAcsSURkFfO5rgfW0TGO89gG\nQU8+dERxrvA8J90hwPKcl76kIy6dXH42iabRJn6gmSwjYvosEDKGrZslM7dWfhu/\nWxh6kpORjYuIRuOVNkNbAGXImxmwIBNk8rclzd/oOORLJGbbZ8nFOQhxAoGBAMtF\nF5jO+els1ps7i6JMOjEkxJvBfjzQC10Gq5iLhibl2AD/9ZNYjjQ6CuL895bHt+Z/\nV6tUe35n7K6R+BJYeubMBUmsqNdI3I8gPSkrRNxHWqbDG08Jjl7mmx3P5qFkTPN6\nMviBWTJzSWGdsJmlxxFBYt9QoeUu6EvYQFQIrv8JAoGBALGZgzSU6D/kirgOv/sT\nCzGXH71fea+Y6tFkbzM6wzcjLP0fxP0SwD8AjR6olBbZYl9DS9vdOSYLVJtFuiDu\nrLPPRs1XlBaa4AN3gTsMXzyOLhEhhR6L3XTilRj9x1okOzwxM73YKwq2J3Nr57+B\nl7ctSZvB7ay05w5vppiWCaCe\n-----END PRIVATE KEY-----\n",
+  "client_email": "knowreschool@knowreschool.iam.gserviceaccount.com",
+  "client_id": "111056597403980904204",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/knowreschool%40knowreschool.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
